@@ -29,5 +29,5 @@ def draw_lottery():
             elif user_choice == 'zgadles':
                 return "wygralem!"
         print("nie oszukuj!")
-        
+
 print(draw_lottery())
